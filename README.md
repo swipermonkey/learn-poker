@@ -1,16 +1,16 @@
 # Learn Poker
 
-I never managed to learn poker with my friends — I'd sit down and lose straight away, with no idea why. So I built the thing I wish I'd had.
+I never managed to learn poker with my friends, I'd sit down and lose straight away with no idea why. So I built the thing I wish I'd had.
 
 ### ▶ [Play it here](https://swipermonkey.github.io/learn-poker/)
 
-A real game of Texas Hold'em against opponents driven by a probability engine, with a coach explaining your decisions as you make them.
+Basically, it's a real game of Texas Hold'em against opponents, with a coach explaining your decisions as you go.
 
-- **Pick your table size** — 4 to 8 players.
-- **Pick your difficulty** — 10 levels, from total beginner to shark.
-- **Opponents with real logic, not randomness** — no machine learning here. Each opponent runs hand-strength math (preflop charts, live equity simulation) through a fixed personality — tight, aggressive, loose, calling station, maniac — modelled on real player-type research.
-- **A coach who explains the math** — pot odds, hand strength, and win probability are calculated live and explained in plain English as you play.
-- **Learn from every loss** — after each hand, it breaks down exactly what beat you, down to the kicker.
-- Built-in hand rankings, jargon glossary, and a how-to-play guide.
+- **Pick your table size.** 4 to 8 players.
+- **Pick your difficulty.** 10 levels, from total beginner to shark.
+- **The opponents aren't AI, they're proper logic.** No machine learning here, each one runs hand strength maths (preflop charts, live equity simulation) through a fixed personality, tight, aggressive, loose, calling station, maniac, modelled on real player type research.
+- **The coach explains the maths as you go.** Pot odds, hand strength and win probability, all in plain English.
+- **Learn from every loss.** After each hand it breaks down exactly what beat you, down to the kicker.
+- Built in hand rankings, jargon glossary, and a how to play guide.
 
-Free. No signup, no ads. A single self-contained HTML file.
+Free. No signup, no ads. Just a single webpage.
