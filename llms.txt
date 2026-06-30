@@ -1,0 +1,16 @@
+# Learn Poker
+
+> A free, interactive Texas Hold'em tutorial. Play real poker hands against opponents while a coach explains pot odds, hand strength, and strategy live, in plain English.
+
+Built by someone who never managed to learn poker with friends — losing hands immediately with no idea why. It pairs a real, playable game of Texas Hold'em with live coaching, so the rules and the strategy click while you play instead of reading about them first.
+
+## Features
+- Table sizes from 4 to 8 players.
+- 10 difficulty levels, from total beginner to shark.
+- Opponents are not AI/machine learning — they run a hand-tuned probability engine (preflop hand-strength charts plus live Monte Carlo equity simulation), each assigned a fixed personality (tight, aggressive, loose, calling station, maniac) modelled on real poker player-type research.
+- A live coach explaining pot odds, hand strength, and win probability in plain English as you play.
+- Post-hand breakdowns explaining exactly what beat you, down to the kicker.
+- Built-in hand rankings reference, poker jargon glossary, and how-to-play guide.
+
+## Pages
+- [Play the game](https://swipermonkey.github.io/learn-poker/): the full interactive tutorial, single page, free, no signup required.
